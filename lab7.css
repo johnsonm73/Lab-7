@@ -1,9 +1,9 @@
 :root {
   --bg: #b1ded8;
   --text: #0f1033;
-  --brand: #7a003c;
+  --brand: #038993;
   --accent: #f4b400;
-  --surface: #f6f6f7;
+  --surface: #7DF6FF;
 
   --space-1: 0.25rem;
   --space-2: 0.5rem;
@@ -117,9 +117,9 @@ textarea { resize: vertical; }
 /* ===== DARK THEME (improved contrast) ===== */
 body.theme-dark {
   --bg: #b1ded8;        /* page background */
-  --surface: #181b22;   /* card/sections */
+  --surface: #7DF6FF;   /* card/sections */
   --text: #0f1033;      /* bright readable text */
-  --brand: #a8458b;     /* primary accent in dark */
+  --brand: #038993;     /* primary accent in dark */
   --accent: #ffb84d;    /* highlight/link color */
 }
 
@@ -161,7 +161,7 @@ body.theme-dark .btn--primary {
 body.theme-brand {
   --bg: #b1ded8;
   --text: #0f1033;
-  --surface: #fff2f7;
+  --surface: #7DF6FF;
 }
 
 /* Mobile-friendly vertical nav */
